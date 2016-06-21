@@ -1,4 +1,3 @@
 # hello-world
-Test repository
 
-I'm a Prof at UBC in Computer Science.
+I'm a Computer Science Prof at UBC.
